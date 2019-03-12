@@ -1,0 +1,6 @@
+A. Start & End date and time : 2018 10 08 21 00  ----  2018 10 08 23 20
+B. Name of team members : Archit Jugran, Shubham Goel, Yagyansh Bhatia , Rajan Sukanth, Rakshit Tiwari
+C. Duration : 2.5 hours 
+D. Name of files changed : 
+   a) syscall.c : Corrected cases exec-bad-ptr and wait-bad-pid
+E. Estimated lines of code added : 15

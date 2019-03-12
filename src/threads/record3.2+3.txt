@@ -1,0 +1,12 @@
+A. Start & End date and time : 2018 09 10 11 00  ----  2018 09 10 15 00
+			       2018 09 10 16 00  ----  2018 09 10 17 00
+                               2018 09 10 18 00  ----  2018 09 11 01 00
+B. Name of team members : Archit Jugran, Shubham Goel, Yagyansh Bhatia , Rajan Sukanth, Rakshit Tiwari
+C. Achievements : Completed Task3.2 & 3.3 
+D. Duration : 12 hours 
+E. Name of files changed : 
+   a) thread.c : Implemented MLFQS (Multi Level feedback queue schedulign) using a new manager thread and calculating the load average values, recent cpu values and priorities
+   b) thread.h - Added two new variables nice and recent_cpu
+   c) synch.c - Made slight modifications in lock_acquire and lock_release
+   d) lib/fixed-point.h - Added functions for fixed point arithmetic for floats. ( 1+ 17+14)
+F. Estimated lines of code added : 200

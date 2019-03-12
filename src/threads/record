@@ -1,0 +1,9 @@
+A. Start date and time : 2018/08/14/17/10
+B. Name of team members : Archit Jugran, Shubham Goel, Yagyansh Bhatia, Rakshit Tiwari, Rajan Sukanth
+C. Achievements : Setting up CVS and completion of task 01
+D. Duration : 6.5 hours , end time: 23:35
+E. Name of files changed :
+ a) thread.c --> Two functions added thread_priority_temporarily_up() and thread_priority_restore()
+ b) thread.h --> Added old priority variable in structure
+  Also added function prototypes
+F. Estimated lines of code added : 20 lines 

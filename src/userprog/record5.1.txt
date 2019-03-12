@@ -1,0 +1,6 @@
+A. Start & End date and time : 2018 09 27 14 00  ----  2018 09 27 18 00
+B. Name of team members : Archit Jugran, Shubham Goel, Yagyansh Bhatia , Rajan Sukanth, Rakshit Tiwari
+C. Achievements : Study session. Understood system call structuring of pintos and how to implement
+D. Duration : 4 hours 
+E. Name of files changed : None
+F. Estimated lines of code added : None

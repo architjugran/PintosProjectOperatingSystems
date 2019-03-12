@@ -1,0 +1,17 @@
+A. Start & End date and time : 2018 09 03 17 00  ----  2018 09 03 19 30 
+			       2018 09 03 20 15  ----  2018 09 04 00 40
+B. Name of team members : Archit Jugran, Shubham Goel, Yagyansh Bhatia, Rajan Sukanth, Rakshit Tiwari
+C. Achievements : Completion of task 05 ,some modification in task 04
+D. Duration : 7 hours 
+E. Name of files changed :
+ a)  thread.h --> Added initial_priority, locks_acquired, lock_seeking
+ b)  synch.h --> Added list_elem and priority in lock
+ c) synch.c --> In lock_release() , adjusted locks holder link and removed lock from threads lock acquired list
+                In lock_acquire() , accounted for priority donation and maintaing the seeking link of lock as well as its priority
+ d) thread.c --> Added thread_remove_lock(),
+                   thread_donate_priority(),
+			a comparator
+			thread_update_priority(),
+   			thread_add_lock()
+                    Modified init_thread
+F. Estimated lines of code added : 70-90 lines 

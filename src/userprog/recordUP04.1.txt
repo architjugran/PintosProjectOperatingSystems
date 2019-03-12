@@ -1,0 +1,12 @@
+A. Start & End date and time : 2018 10 10 18 00  ----  2018 10 11 01 00
+                               2018 10 11 12 00  ----  2018 10 11 16 20
+B. Name of team members : Archit Jugran, Shubham Goel
+C. Duration : 11.5 hours 
+D. Name of files changed : 
+   a) thread.h : Added semaphores loaded (lock will be released when loading complete successfully or unsuccessfully ) , almostexit( to get return status of thread when it reaches exit() ) . Added integer exitstatus to store return status of thread and a boolean load( to indicate successful load if true).
+  b)  thread.c : In init_thread() , initialized the above declared semaphores and variables.
+                 Made a new function getChildThread() which iterates over all_list and returns thread by matching tid.
+  c) process.c : In fucntion start_process() , after the call to load(), i upped value of loaded semaphore to indicate that loading is done. Also, if loading is unsuccesful , exiting the thread and accordingly adjusting semaphore almostexit
+  d) syscall.c : In function exit(), storing the return status in variable exitstatus , and blocking the thread before exit and upping the almostexit semaphore so the part of code waiting for return status to be stored can execute before thread dies.
+                 In function exec(), first i am checking after process_execute, if no child is formed then return -1 .Then wait for loading to be sucessful/unsuccessful and accordingly return valid tid or -1 respectively.
+E. Estimated lines of code added : 40

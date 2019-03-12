@@ -1,0 +1,9 @@
+A. Start & End date and time : 2018 10 20 12 00  ----  2018 10 20 16 00
+                               2018 10 20 10 00  ----  2018 10 21 01 00
+B. Name of team members : Archit Jugran, Shubham Goel
+C. Duration : 7 hours 
+D. Name of files changed : 
+  a) process.c : In fucntion process_wait() ,  i downed value of almostexit semaphore to wait till we need to exit. then control comes here and return status is accessed just before thread exit
+  b) syscall.c : In function wait(), waiting for thread to quit by downing value of semaphore almostexit, then accessing status and returning it
+E. Other achievements : Also studied for next part of assignment
+F. Estimated lines of code added : 25

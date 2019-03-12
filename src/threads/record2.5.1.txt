@@ -1,0 +1,6 @@
+A. Start & End date and time : 2018 09 01 10 50  ----  2018 09 01 14 50
+B. Name of team members : Archit Jugran, Shubham Goel, Yagyansh Bhatia 
+C. Achievements : Study session, understood priority donation and how to implement it in Pintos
+D. Duration : 4 hours 
+E. Name of files changed : None
+F. Estimated lines of code added : None 

@@ -1,0 +1,10 @@
+A. Start & End date and time : 2018 10 01 11 00  ----  2018 10 01 17 00
+                   	       2018 10 01 23 00  ----  2018 10 02 01 30
+B. Name of team members : Archit Jugran, Shubham Goel, Yagyansh Bhatia , Rajan Sukanth, Rakshit Tiwari
+C. Achievements : Completed UP02 
+D. Duration : 9 hours 
+E. Name of files changed : 
+   a) syscall.c : Implemented system calls :halt,exit ,write  and added dummy functions for remaining system calls
+   b) process.c : Changed process_wait() for infinite waiting and removed call to test_stack()
+   C) exception.c : Added extra condition to exit when virtual address causes page fault
+F. Estimated lines of code added : 160

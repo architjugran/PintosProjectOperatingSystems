@@ -1,0 +1,8 @@
+A. Start & End date and time : 2018 09 08 23 00  ----  2018 09 09 01 00
+                               2018 09 09 14 00  ----  2018 09 09 18 00
+B. Name of team members : Archit Jugran, Shubham Goel, Yagyansh Bhatia 
+C. Achievements : Completed Task3.1
+D. Duration : 6 hours 
+E. Name of files changed : a) timer.c  : Removed part of code which will now be handled by thread manager
+   b) thread.c : Implemented timer_wakeup() and manager() functions
+F. Estimated lines of code added : 30

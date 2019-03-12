@@ -1,0 +1,9 @@
+A. Start date and time : 29/10/2018 22:00 to 30/10/2018 00:15
+B. Name of team members : Archit Jugran, Rakshit Tiwari, Shubham Goel
+C. Duration : 2.5 hours
+D. Name of files changed :
+	1) frame.c : Created frame table and frame table lock. Created functions to initialise and insert frame table 
+			element into the frame table. Also added code in freeframe() to remove fte from frame table.
+	2) frame.h : Defined frame table element struct.	
+	3) page.h : Defined supplementary page table element struct and enum for type of page.
+E. Estimated lines of code added : 60 lines

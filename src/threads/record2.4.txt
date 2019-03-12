@@ -1,0 +1,12 @@
+A. Start & End date and time : 2018 08 28 20 30  ----  2018 08 29 21 15 
+			       2018 08 29 22 15  ----  2018 08 30 01 50
+B. Name of team members : Archit Jugran, Shubham Goel, Yagyansh Bhatia, Rajan Sukanth, Rakshit Tiwari
+C. Achievements : Completion of task 04
+D. Duration : 4.5 hours 
+E. Name of files changed :
+ a)  thread.h --> Added a list of locks acquired by thread in struct thread
+ b)  synch.h --> Added a list_elem variable in struct lock to store element of locks_acquired list in thread
+ c) synch.c --> In lock_release() , we need to remove the lock from thread's locks_acquired list
+                In lock_acquire() , we need to add the lock to thread's locks_acquired list
+ d) thread.c --> In init_thread(), initialized thread's locks_acquired list
+F. Estimated lines of code added : 10 lines 

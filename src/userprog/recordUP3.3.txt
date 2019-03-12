@@ -1,0 +1,6 @@
+A. Start & End date and time : 2018 10 07 16 00  ----  2018 10 07 21 30
+B. Name of team members : Archit Jugran, Shubham Goel, Yagyansh Bhatia , Rajan Sukanth, Rakshit Tiwari
+C. Duration : 5.5 hours 
+D. Name of files changed : 
+   a) syscall.c : Implemented  system calls seek(),tell(),close()
+E. Estimated lines of code added : 35

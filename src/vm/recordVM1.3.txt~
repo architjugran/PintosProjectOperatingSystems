@@ -1,0 +1,8 @@
+A. Start date and time : 30/10/2018 05:00 to 30/10/2018 10:00
+B. Name of team members : Archit Jugran, Rakshit Tiwari, Shubham Goel
+C. Duration : 5 hours
+D. Name of files changed :
+a) page.c : Created constructor for supp page table entry and other functions for creating table, free entry and destroy entry
+b) page.h : Made prototypes of the above functions
+c) Makefile.build : added vm+=page.c
+E. Estimated lines of code added : 60 lines

@@ -1,0 +1,6 @@
+A. Start & End date and time : 2018 08 29 17 05  ----  2018 08 29 19 30
+B. Name of team members : Archit Jugran, Shubham Goel , Rajan Sukanth
+C. Achievements : Study session, understood concepts for upcoming tasks
+D. Duration : 2 hours 30 minutes 
+E. Name of files changed : None
+F. Estimated lines of code added : None 

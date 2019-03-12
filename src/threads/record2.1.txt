@@ -1,0 +1,8 @@
+A. Start & End date and time : 2018 08 28 23 00  ----  2018 08 29 01 30 
+			       2018 08 29 09 30  ----  2018 08 29 12 07
+B. Name of team members : Archit Jugran, Shubham Goel, Yagyansh Bhatia
+C. Achievements : Completion of task 03
+D. Duration : 5 hours 
+E. Name of files changed :
+ a)  thread.c --> Implemented thread_set_priority() function which takes care that if priority is reduced, then yield to that thread which has greater priority.
+F. Estimated lines of code added : 10 lines 

@@ -1,0 +1,10 @@
+A. Start & End date and time : 2018 08 30 19 00  ----  2018 08 30 20 30
+B. Name of team members : Archit Jugran, Shubham Goel, Yagyansh Bhatia
+C. Achievements : Made queue insert operation from ordered to FIFO
+D. Duration : 1.5 hours 
+E. Name of files changed :
+ a)  synch.c --> Added push_back instead of insert_ordered
+ b)  thread.c --> Added push_back instead of insert_ordered
+ c)  synch.c --> In sema_up() --Now , instead of removing the front element , we are iterating over the list and removing the element with greatest priority.
+ d) thread.c --> In next_thread_to_run(), instead of removing the front element , we are iterating over the list and removing the element with greatest priority.
+F. Estimated lines of code added : 15 lines 

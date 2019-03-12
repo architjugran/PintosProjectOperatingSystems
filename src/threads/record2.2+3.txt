@@ -1,0 +1,12 @@
+A. Start & End date and time : 2018 08 30 10 15  ----  2018 08 30 11 30 
+			       2018 08 30 17 30  ----  2018 08 30 19 00
+B. Name of team members : Archit Jugran, Shubham Goel, Yagyansh Bhatia, Rakshit Tiwari
+C. Achievements : Completion of task 02 & task 03 
+D. Duration : 3 hours 
+E. Name of files changed :
+ a)  synch.c --> sema_down() function now takes care that threads are inserted in priority order 
+		sema_up() function takes care of unblocking the highest priority thread
+		condition
+ 		Implemented comparator for condition variable so that among all semaphores waiting for that condition, the highest priority thread is returned and the corresponding semaphore is released in cond_signal() function 
+
+F. Estimated lines of code added : 30 lines 

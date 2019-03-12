@@ -1,0 +1,16 @@
+/LICENSE/1.1.1.1/Tue Aug 14 15:26:52 2018//D2018.10.23.11.00.00
+/Make.config/1.1.1.1/Tue Aug 14 15:26:52 2018//D2018.10.23.11.00.00
+/Makefile/1.1.1.1/Tue Aug 14 15:26:52 2018//D2018.10.23.11.00.00
+/Makefile.kernel/1.1.1.1/Tue Aug 14 15:26:52 2018//D2018.10.23.11.00.00
+/Makefile.userprog/1.1.1.1/Tue Aug 14 15:26:52 2018//D2018.10.23.11.00.00
+D/devices////
+D/examples////
+D/filesys////
+D/lib////
+D/misc////
+D/tests////
+D/threads////
+D/userprog////
+D/utils////
+D/vm////
+/Makefile.build/1.3/Mon Oct 29 18:58:04 2018//

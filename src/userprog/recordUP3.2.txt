@@ -1,0 +1,7 @@
+A. Start & End date and time : 2018 10 06 22 00  ----  2018 10 07 02 00
+                   	       2018 10 07 10 00  ----  2018 10 07 12 00
+B. Name of team members : Archit Jugran, Shubham Goel, Yagyansh Bhatia , Rajan Sukanth, Rakshit Tiwari
+C. Duration : 6 hours 
+D. Name of files changed : 
+   a) syscall.c : Implemented another checkers : checkfd (for checking file descriptor). also implemented system calls filesize() , read() and modified existing write() .
+E. Estimated lines of code added : 45

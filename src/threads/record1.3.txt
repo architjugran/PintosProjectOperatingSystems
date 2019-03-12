@@ -1,0 +1,10 @@
+A. Start & End date and time : 2018 08 15 18 00  ----  2018 08 16 01 00 
+			       2018 08 16 09 30  ----  2018 08 16 11 00
+B. Name of team members : Archit Jugran, Shubham Goel, Yagyansh Bhatia, Rakshit Tiwari, Rajan Sukanth
+C. Achievements : Completion of task 03
+D. Duration : 8.5 hours 
+E. Name of files changed :
+ a)  thread.c --> Added thread_set_next_wakeup() and modified thread_tick() . Implemented logic for global variable next_wakeup_at   .
+ b)  thread.h --> Added function prototype
+ c)  timer.c  --> timer_sleep() function updated
+F. Estimated lines of code added : 65 lines 

@@ -1,0 +1,6 @@
+A. Start & End date and time : 2018 10 09 21 00  ----  2018 10 10 01 00
+B. Name of team members : Archit Jugran, Shubham Goel
+C. Achievements : Study session.Read and understood pintdoc for exec() and write() and the helper doc for up04 .
+D. Duration : 4 hours 
+E. Name of files changed : None
+F. Estimated lines of code added : None
